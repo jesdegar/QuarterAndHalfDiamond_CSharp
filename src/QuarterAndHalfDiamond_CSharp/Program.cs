@@ -9,22 +9,24 @@ namespace QuarterAndHalfDiamond_CSharp
     class Program
     {
         static void Main(string[] args)
-        {            
+        {
+            QuarterDiamond(5, '*');
             HalfDiamond(5, '*');
+
         }
         static void QuarterDiamond(int length,char chr)
         {
-            Console.WriteLine(string.Format("This is a quarter diamond with max length \t\t\t{0}",length));
+            Console.WriteLine(string.Format("This is a quarter diamond with max length {0}",length));
             for (int i = 1; i <= length; i++)
             {
                 Console.WriteLine(new string(chr, i));
             }
             Console.WriteLine("end of quarter diamond");
-            Console.ReadLine();
+            //Console.ReadLine();
         }
         static void HalfDiamond(int length, char chr)
         {
-            Console.WriteLine(string.Format("This is a half diamond with max length \t\t\t{0}", length));
+            Console.WriteLine(string.Format("This is a half diamond with max length {0}", length));
             for (int i = 1; i <= length; i++)
             {
                 Console.WriteLine(new string(chr, i));
