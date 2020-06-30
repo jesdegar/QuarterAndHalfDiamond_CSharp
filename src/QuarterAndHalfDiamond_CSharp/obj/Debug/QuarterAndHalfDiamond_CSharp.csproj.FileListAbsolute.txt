@@ -1,0 +1,6 @@
+D:\Me\Repo\QuarterAndHalfDiamond_CSharp\src\QuarterAndHalfDiamond_CSharp\bin\Debug\QuarterAndHalfDiamond_CSharp.exe.config
+D:\Me\Repo\QuarterAndHalfDiamond_CSharp\src\QuarterAndHalfDiamond_CSharp\bin\Debug\QuarterAndHalfDiamond_CSharp.exe
+D:\Me\Repo\QuarterAndHalfDiamond_CSharp\src\QuarterAndHalfDiamond_CSharp\bin\Debug\QuarterAndHalfDiamond_CSharp.pdb
+D:\Me\Repo\QuarterAndHalfDiamond_CSharp\src\QuarterAndHalfDiamond_CSharp\obj\Debug\QuarterAndHalfDiamond_CSharp.csprojResolveAssemblyReference.cache
+D:\Me\Repo\QuarterAndHalfDiamond_CSharp\src\QuarterAndHalfDiamond_CSharp\obj\Debug\QuarterAndHalfDiamond_CSharp.exe
+D:\Me\Repo\QuarterAndHalfDiamond_CSharp\src\QuarterAndHalfDiamond_CSharp\obj\Debug\QuarterAndHalfDiamond_CSharp.pdb
