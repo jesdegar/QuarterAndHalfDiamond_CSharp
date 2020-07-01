@@ -12,7 +12,7 @@ namespace QuarterAndHalfDiamond_CSharp
         {
             QuarterDiamond(5, '*');
             HalfDiamond(5, '*');
-
+            Console.ReadLine();
         }
         static void QuarterDiamond(int length,char chr)
         {
@@ -22,7 +22,7 @@ namespace QuarterAndHalfDiamond_CSharp
                 Console.WriteLine(new string(chr, i));
             }
             Console.WriteLine("end of quarter diamond");
-            //Console.ReadLine();
+            
         }
         static void HalfDiamond(int length, char chr)
         {
@@ -36,7 +36,7 @@ namespace QuarterAndHalfDiamond_CSharp
                 Console.WriteLine(new string(chr, i));
             }
             Console.WriteLine("end of half diamond");
-            Console.ReadLine();
+            
         }
     }
 }
